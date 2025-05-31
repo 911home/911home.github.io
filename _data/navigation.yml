@@ -7,7 +7,18 @@
 # How to use:
 # {{ site.data.navigation[site.locale].nav.<var_name> | default: 'text' }}
 
-# English (default)
+# Indonesia
+# -----------------
+id: &DEFAULT_ID
+  nav:
+    - title: "Layanan"
+      section: services
+    - title: "Tentang Saya"
+      section: team
+    - title: "Kontak"
+      section: contact
+
+# English
 # -----------------
 en: &DEFAULT_EN
   nav:

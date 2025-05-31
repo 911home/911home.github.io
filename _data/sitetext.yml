@@ -7,7 +7,80 @@
 # How to use:
 # {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
 
-# English (default)
+# Indonesia
+# -----------------
+id: &DEFAULT_ID
+  header:
+    title: Agen Properti Independen
+    text: JakBar dan sekitarnya
+    button: lanjut
+    buttonlink: "#services"
+
+  services:
+    title: "Layanan"
+    text: "Saya adalah agen properti independen yang berpengalaman dan terpercaya untuk memasarkan properti berikut yang ingin dijual/disewakan:"
+    section: services
+    list:
+      - title: "Apartemen"
+        # desc: ""
+        icon: fas fa-building
+      - title: "Rumah"
+        # desc: ""
+        icon: fas fa-home
+      - title: "Ruko"
+        # desc: ""
+        icon: fas fa-store
+      - title: "Tanah"
+        # desc: ""
+        icon: fas fa-tree
+      - title: "Gudang"
+        # desc: ""
+        icon: fas fa-box
+
+  timeline:
+    text: " "
+
+  about:
+    title: " "
+
+  team:
+    title: "Tentang Saya"
+    subtext: "Saya bekerja dengan tanggung jawab penuh dan mengutamakan kepuasan klien sebagai prioritas utama sejak tahun 2021.<br>Percayakan kebutuhan properti Anda kepada saya.<br>Properti Anda akan saya bantu pasarkan secara aktif dan profesional dari awal sampai tuntas!"
+    section: team
+    people:
+      - name: "Tan Susanawati Tandean"
+        role: "Agen Properti"
+        image: assets/img/team/profile.jpg
+        social:
+          - url: https://www.instagram.com/911home/
+            icon: "fab fa-instagram"
+          - url: https://www.facebook.com/100043591032265/
+            icon: "fab fa-facebook-f"
+
+  contact:
+    title: "Hubungi Saya"
+    text: "Untuk pertanyaan lebih lanjut silahkan hubungi (+62) 896 1120 2392 (WhatsApp)"
+    section: contact
+    name: "Nama*"
+    name-validation: "Masukkan nama Anda."
+    email: "Email*"
+    email-validation: "Masukkan alamat email Anda."
+    phone: "Nomor HP"
+    phone-validation: "Masukkan nomor HP Anda."
+    message: "Pesan*"
+    message-validation: "Masukkan pesan Anda."
+    subject: "Contact Form Submission"
+    submit: "Kirim"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://www.instagram.com/911home/
+        icon: "fab fa-instagram"
+      - url: https://www.facebook.com/100043591032265/
+        icon: "fab fa-facebook-f"
+
+# English
 # -----------------
 en: &DEFAULT_EN
   header:
