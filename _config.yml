@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : 911HOME
 email      : susan.tandean68@gmail.com #this is also the email contact forms will go to
-description: "911HOME | Agen properti independen untuk Jakarta Barat dan sekitarnya"
+description: "Agen properti independen untuk daerah Jakarta Barat dan sekitarnya"
 author     : 911HOME
 logo:     #optional, defaults to site title
   path: assets\img\clients\logo.jpeg
