@@ -59,7 +59,7 @@ id: &DEFAULT_ID
 
   contact:
     title: "Hubungi Saya"
-    text: "Punya pertanyaan lebih lanjut? Silahkan hubungi (+62) 896 1120 2392 (WhatsApp) atau kirim pesan melalui form di bawah ini."
+    text: "Punya properti yang ingin dipasarkan? Silahkan hubungi saya di (+62) 896 1120 2392 (WhatsApp) atau kirim pesan melalui form di bawah ini."
     section: contact
     name: "Nama*"
     name-validation: "Masukkan nama Anda."
