@@ -45,10 +45,10 @@ id: &DEFAULT_ID
 
   team:
     title: "Tentang Saya"
-    subtext: "Saya bekerja dengan tanggung jawab penuh mengutamakan kepuasan klien sebagai prioritas utama.<br>Sejak tahun 2021, sudah ada lebih dari 20 properti yang saya pasarkan.<br>Percayakan kebutuhan properti Anda kepada saya.<br>Properti Anda akan saya bantu pasarkan secara aktif dan profesional dari awal sampai tuntas!"
+    subtext: "Saya bekerja dengan tanggung jawab penuh mengutamakan kepuasan klien sebagai prioritas utama.<br>Sudah banyak properti yang sudah tersewa dan terjual melalui saya.<br>Percayakan kebutuhan properti Anda kepada saya.<br>Properti Anda akan saya bantu pasarkan secara aktif dan profesional dari awal sampai tuntas!"
     section: team
     people:
-      - name: "Tan Susanawati Tandean"
+      - name: "Susan"
         role: "Agen Properti"
         image: assets/img/team/profile.jpg
         social:
